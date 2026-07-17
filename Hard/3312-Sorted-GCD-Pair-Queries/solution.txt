@@ -1,0 +1,59 @@
+// ═══════════════════════════════════════════════════════
+//  Problem  : 3312. Sorted GCD Pair Queries
+//  URL      : https://leetcode.com/problems/sorted-gcd-pair-queries/submissions/2071357291/?envType=daily-question&envId=2026-07-17
+//  Difficulty : Hard
+//  Language : chooseatype
+//  Solved   : July 17, 2026
+// ═══════════════════════════════════════════════════════
+
+
+
+class Solution {
+public:
+    vector<int> gcdValues(vector<int>& nums, vector<long long>& queries) {
+        int max_val = *max_element(nums.begin(), nums.end());
+        
+        
+        vector<long long> freq(max_val + 1, 0);
+        for (int num : nums) {
+            freq[num]++;
+        }
+        
+      
+        vector<long long> gcd_count(max_val + 1, 0);
+        for (int g = max_val; g >= 1; --g) {
+            long long count_multiples = 0;
+            for (int multiple = g; multiple <= max_val; multiple += g) {
+                count_multiples += freq[multiple];
+            }
+            
+           
+            long long total_pairs = count_multiples * (count_multiples - 1) / 2;
+            
+           
+            for (int multiple = 2 * g; multiple <= max_val; multiple += g) {
+                total_pairs -= gcd_count[multiple];
+            }
+            
+            gcd_count[g] = total_pairs;
+        }
+        
+        
+        vector<long long> prefix_sums(max_val + 1, 0);
+        for (int i = 1; i <= max_val; ++i) {
+            prefix_sums[i] = prefix_sums[i - 1] + gcd_count[i];
+        }
+        
+       
+        vector<int> answer;
+        answer.reserve(queries.size());
+        for (long long q : queries) {
+            
+            auto it = upper_bound(prefix_sums.begin(), prefix_sums.end(), q);
+            int gcd_val = distance(prefix_sums.begin(), it);
+            answer.push_back(gcd_val);
+        }
+        
+        return answer;
+    }
+};

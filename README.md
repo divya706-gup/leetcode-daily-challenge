@@ -1,14 +1,18 @@
-# LeetCode Daily Challenge 🚀
+# 🚀 LeetCode Solutions
 
-Repository for tracking LeetCode daily challenge solutions.
-
-Total Problems Solved: 4
+> Auto-synced by [LeetSync](https://github.com) browser extension.
 
 ## 📊 Progress
 
+![Total](https://img.shields.io/badge/Total-2-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-1-brightgreen?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-0-yellow?style=flat-square)
+![Hard](https://img.shields.io/badge/Hard-1-red?style=flat-square)
+
 | # | Problem | Difficulty | Language | Solved |
-| ----- | ----- | ----- | ----- | ----- |
-| 3312 | [Sorted GCD Pair Queries](Hard/%203312-Sorted-GCD-Pair-Queries) | 🔴 Hard | C++ | Jul 17, 2026 |
-| 3608 | [Find the Number of Subsequences with Equal GCD](3608-find-the-number-of-subsequences-with-equal-gcd) | 🔴 Hard | C++ | Jul 17, 2026 |
-| 3995 | [GCD of Odd and Even Sums](3995-gcd-of-odd-and-even-sums) | 🟡 Medium | C++ | Jul 17, 2026 |
-| 3867 | [Sum of GCD of Formed Pairs](Medium/%203867-Sum-of-GCD-of-Formed-Pairs) | 🟡 Medium | C++ | Jul 17, 2026 |
+|---|---------|------------|----------|--------|
+| 1979 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/submissions/2071689791/?envType=daily-question&envId=2026-07-18) | 🟢 Easy | `chooseatype` | Jul 18, 2026 |
+| 3312 | [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/submissions/2071357291/?envType=daily-question&envId=2026-07-17) | 🔴 Hard | `chooseatype` | Jul 17, 2026 |
+
+---
+*Last updated: Sat, 18 Jul 2026 03:16:46 GMT*

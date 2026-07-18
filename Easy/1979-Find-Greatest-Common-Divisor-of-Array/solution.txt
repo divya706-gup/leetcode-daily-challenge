@@ -1,0 +1,15 @@
+// ═══════════════════════════════════════════════════════
+//  Problem  : 1979. Find Greatest Common Divisor of Array
+//  URL      : https://leetcode.com/problems/find-greatest-common-divisor-of-array/submissions/2071689791/?envType=daily-question&envId=2026-07-18
+//  Difficulty : Easy
+//  Language : chooseatype
+//  Solved   : July 18, 2026
+// ═══════════════════════════════════════════════════════
+
+class Solution {
+public:
+    int findGCD(vector<int>& nums) {
+        sort(nums.begin(),nums.end());
+        return gcd(nums[0],nums[nums.size()-1]);
+    }
+};

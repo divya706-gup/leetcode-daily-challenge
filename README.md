@@ -1,7 +1,6 @@
 # 🚀 LeetCode Solutions
-
-> Auto-synced by [LeetSync](https://github.com) browser extension.
-
+Welcome to my LeetCode journey! 🎯
+This repository is a curated collection of my daily problem-solving efforts, featuring optimized solutions, clean code, and detailed complexity analysis. Built to track consistency and master data structures & algorithms.
 ## 📊 Progress
 
 ![Total](https://img.shields.io/badge/Total-4-blue?style=flat-square)
@@ -15,6 +14,6 @@
 | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/?envType=daily-question&envId=2026-07-19) | 🟡 Medium | `chooseatype` | Jul 19, 2026 |
 | 1979 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/submissions/2071689791/?envType=daily-question&envId=2026-07-18) | 🟢 Easy | `chooseatype` | Jul 18, 2026 |
 | 3312 | [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/submissions/2071357291/?envType=daily-question&envId=2026-07-17) | 🔴 Hard | `chooseatype` | Jul 17, 2026 |
-
+| 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/Smallest-Subsequence-of-Distinct-Characters/submissions/2073203789/?envType=daily-question&envId=2026-07-18) | 🟡 Medium  | `chooseatype` | Jul 18, 2026 |
 ---
 *Last updated: Sun, 19 Jul 2026 07:33:21 GMT*

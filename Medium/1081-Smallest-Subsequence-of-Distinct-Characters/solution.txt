@@ -1,0 +1,32 @@
+// ═══════════════════════════════════════════════════════
+//  Problem  : 1081. Smallest Subsequence of Distinct Characters
+//  URL      : https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/?envType=daily-question&envId=2026-07-19
+//  Difficulty : Medium
+//  Language : chooseatype
+//  Solved   : July 19, 2026
+// ═══════════════════════════════════════════════════════
+
+class Solution {
+public:
+    string smallestSubsequence(string s) {
+        vector<int>count(26,0);
+        vector<bool>inStack(26,false);
+        string result="";
+        for(char ch:s){
+            count[ch-'a']++;
+        }
+        for(char ch:s){
+            count[ch-'a']--;
+            if(inStack[ch-'a']){
+                continue;
+            }
+            while(!result.empty()&&result.back()>ch &&count[result.back()-'a']>0){
+                inStack[result.back()-'a']=false;
+                result.pop_back();
+            }
+            result.push_back(ch);
+            inStack[ch-'a']=true;
+        }
+        return result;
+    }
+};

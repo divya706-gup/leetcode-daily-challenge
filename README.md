@@ -16,4 +16,5 @@ This repository is a curated collection of my daily problem-solving efforts, fea
 | 3312 | [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/submissions/2071357291/?envType=daily-question&envId=2026-07-17) | 🔴 Hard | `chooseatype` | Jul 17, 2026 |
 | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/Smallest-Subsequence-of-Distinct-Characters/submissions/2073203789/?envType=daily-question&envId=2026-07-18) | 🟡 Medium  | `chooseatype` | Jul 19, 2026 |
 | 1260 | [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/submissions/2074801262/?envType=daily-question&envId=2026-07-20) | 🟢 Easy | `chooseatype` | Jul 20, 2026 |
+| 3499 | [Maximize Active Section With Trade I ](https://leetcode.com/problems/maximize-active-section-with-trade-i/submissions/2075791859/?envType=daily-question&envId=2026-07-21)|🟡 Medium |`chooseatype` | Jul 21, 2026 |
 *Last updated: Sun, 19 Jul 2026 07:33:21 GMT*

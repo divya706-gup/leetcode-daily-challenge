@@ -18,4 +18,5 @@ This repository is a curated collection of my daily problem-solving efforts, fea
 | 1260 | [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/submissions/2074801262/?envType=daily-question&envId=2026-07-20) | 🟢 Easy | `chooseatype` | Jul 20, 2026 |
 | 3499 | [Maximize Active Section With Trade I ](https://leetcode.com/problems/maximize-active-section-with-trade-i/submissions/2075791859/?envType=daily-question&envId=2026-07-21)|🟡 Medium |`chooseatype` | Jul 21, 2026 |
 | 3501 | [Maximize Active Section With Trade II ](https://leetcode.com/problems/maximize-active-section-with-trade-ii/submissions/2077122737/?envType=daily-question&envId=2026-07-22)|🔴 Hard | `chooseatype` | Jul 22, 2026 |
+| 3824 | [Number Of Unique XOR Triplets](https://leetcode.com/problems/number-of-unique-xor-triplets-i/submissions/2078294353/?envType=daily-question&envId=2026-07-23) |🟡 Medium |`chooseatype` | Jul 23, 2026 |
 *Last updated: Sun, 19 Jul 2026 07:33:21 GMT*

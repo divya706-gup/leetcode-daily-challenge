@@ -18,5 +18,7 @@ This repository is a curated collection of my daily problem-solving efforts, fea
 | 1260 | [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/submissions/2074801262/?envType=daily-question&envId=2026-07-20) | 🟢 Easy | `chooseatype` | Jul 20, 2026 |
 | 3499 | [Maximize Active Section With Trade I ](https://leetcode.com/problems/maximize-active-section-with-trade-i/submissions/2075791859/?envType=daily-question&envId=2026-07-21)|🟡 Medium |`chooseatype` | Jul 21, 2026 |
 | 3501 | [Maximize Active Section With Trade II ](https://leetcode.com/problems/maximize-active-section-with-trade-ii/submissions/2077122737/?envType=daily-question&envId=2026-07-22)|🔴 Hard | `chooseatype` | Jul 22, 2026 |
-| 3824 | [Number Of Unique XOR Triplets](https://leetcode.com/problems/number-of-unique-xor-triplets-i/submissions/2078294353/?envType=daily-question&envId=2026-07-23) |🟡 Medium |`chooseatype` | Jul 23, 2026 |
+| 3824 | [Number Of Unique XOR Triplets I](https://leetcode.com/problems/number-of-unique-xor-triplets-i/submissions/2078294353/?envType=daily-question&envId=2026-07-23) |🟡 Medium |`chooseatype` | Jul 23, 2026 |
+| 3514 | [Number Of Unique XOR Triplets I](https://leetcode.com/problems/number-of-unique-xor-triplets-ii/submissions/2079174973/?envType=daily-question&envId=2026-07-25) |🟡 Medium |`chooseatype` | Jul 24, 2026 |
+| 3536 | [Maximum Product Of Two Digits ](https://leetcode.com/problems/maximum-product-of-two-digits/submissions/?envType=daily-question&envId=2026-07-25)|🟢 Easy |  `chooseatype` | Jul 25, 2026 |
 *Last updated: Sun, 19 Jul 2026 07:33:21 GMT*

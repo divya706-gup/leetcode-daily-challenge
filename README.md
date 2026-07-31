@@ -10,6 +10,12 @@ This repository is a curated collection of my daily problem-solving efforts, fea
 
 | # | Problem | Difficulty | Language | Solved |
 |---|---------|------------|----------|--------|
+| 2812 | [Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/submissions/2052709025/?envType=daily-question&envId=2026-07-01) | 🟡 Medium  | `chooseatype` | Jul 01, 2026 |
+| 3286 | [Find a Safe Walk Throgh a Grid](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/description/?envType=daily-question&envId=2026-07-02) | 🟡 Medium  | `chooseatype` | Jul 02, 2026 |
+| 3620 | [Network Recovery Pathway](https://leetcode.com/problems/network-recovery-pathways/description/?envType=daily-question&envId=2026-07-03) | 🔴 Hard |`chooseatype` | Jul 03, 2026 |
+| 2492 | [Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/submissions/2055595905/?envType=daily-question&envId=2026-07-04) | 🟡 Medium  | `chooseatype` | Jul 04, 2026 |
+| 1301 | [Number of Paths Max Score](https://leetcode.com/problems/number-of-paths-with-max-score/submissions/2056763570/?envType=daily-question&envId=2026-07-05) | 🔴 Hard |`chooseatype` | Jul 05, 2026 |
+| 1288 | [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/submissions/?envType=daily-question&envId=2026-07-06) | 🟡 Medium  | `chooseatype` | Jul 06, 2026 |
 | 3754 | [Concatenate Non-Zero Digits and Multiply by Sum I](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/submissions/?envType=daily-question&envId=2026-07-07) | 🟢 Easy  | `chooseatype` | Jul 07, 2026 |
 | 3756 | [Concatenate Non-Zero Digits and Multiply by Sum II](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-ii/submissions/2060569579/?envType=daily-question&envId=2026-07-08) | 🟡 Medium  | `chooseatype` | Jul 08, 2026 |
 | 3532 | [Path Existence in a Graph I](https://leetcode.com/problems/path-existence-queries-in-a-graph-i/submissions/?envType=daily-question&envId=2026-07-09) | 🟡 Medium  | `chooseatype` | Jul 09, 2026 |

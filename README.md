@@ -10,13 +10,22 @@ This repository is a curated collection of my daily problem-solving efforts, fea
 
 | # | Problem | Difficulty | Language | Solved |
 |---|---------|------------|----------|--------|
-| 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/?envType=daily-question&envId=2026-07-19) | 🟡 Medium | `chooseatype` | Jul 16, 2026 |
+| 3754 | [Concatenate Non-Zero Digits and Multiply by Sum I](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/submissions/?envType=daily-question&envId=2026-07-07) | 🟢 Easy  | `chooseatype` | Jul 07, 2026 |
+| 3756 | [Concatenate Non-Zero Digits and Multiply by Sum II](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-ii/submissions/2060569579/?envType=daily-question&envId=2026-07-08) | 🟡 Medium  | `chooseatype` | Jul 08, 2026 |
+| 3532 | [Path Existence in a Graph I](https://leetcode.com/problems/path-existence-queries-in-a-graph-i/submissions/?envType=daily-question&envId=2026-07-09) | 🟡 Medium  | `chooseatype` | Jul 09, 2026 |
+| 3534 | [Path Existence in a Graph II](https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/submissions/2063005759/?envType=daily-question&envId=2026-07-10) | 🔴 Hard |`chooseatype` | Jul 10, 2026 |
+| 2685 | [Count the Number of Complete Components](https://leetcode.com/problems/count-the-number-of-complete-components/submissions/2063532738/?envType=daily-question&envId=2026-07-11) | 🟡 Medium  | `chooseatype` | Jul 11, 2026 |
+| 1331 | [Rank Transform of an Array ](https://leetcode.com/problems/rank-transform-of-an-array/submissions/2064384755/?envType=daily-question&envId=2026-07-12))| 🟢 Easy |  `chooseatype` | Jul 12, 2026 |
+| 1291 | [Sequential Digits ](https://leetcode.com/problems/sequential-digits/submissions/2066123094/?envType=daily-question&envId=2026-07-13)| 🟢 Easy |  `chooseatype` | Jul 13, 2026 |
+| 3336 | [Find the Number of Subsequences With Equal GCD](https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd/description/?envType=daily-question&envId=2026-07-14) | 🔴 Hard |`chooseatype` | Jul 14, 2026 |
+| 3568 | [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums/submissions/2068526813/?envType=daily-question&envId=2026-07-15) | 🟢 Easy |  `chooseatype` | Jul 15, 2026 |
+| 3867 | [Sum of GCD of Formed Pairs](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/submissions/2069949056/?envType=daily-question&envId=2026-07-16) |🟡 Medium |`chooseatype` | Jul 16, 2026 |
 | 1979 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/submissions/2071689791/?envType=daily-question&envId=2026-07-18) | 🟢 Easy |  `chooseatype` | Jul 17, 2026 |
 | 3312 | [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/submissions/2071357291/?envType=daily-question&envId=2026-07-17) | 🔴 Hard | `chooseatype` | Jul 18, 2026 |
 | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/Smallest-Subsequence-of-Distinct-Characters/submissions/2073203789/?envType=daily-question&envId=2026-07-18) | 🟡 Medium  | `chooseatype` | Jul 19, 2026 |
 | 1260 | [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/submissions/2074801262/?envType=daily-question&envId=2026-07-20) | 🟢 Easy | `chooseatype` | Jul 20, 2026 |
 | 3499 | [Maximize Active Section With Trade I ](https://leetcode.com/problems/maximize-active-section-with-trade-i/submissions/2075791859/?envType=daily-question&envId=2026-07-21)|🟡 Medium |`chooseatype` | Jul 21, 2026 |
-| 3501 | [Maximize Active Section With Trade II ](https://leetcode.com/problems/maximize-active-section-with-trade-ii/submissions/2077122737/?envType=daily-question&envId=2026-07-22)|🔴 Hard | `chooseatype` | Jul 22, 2026 |
+| 3501 | [Maximize Active Section With Trade II ](https://leetcode.com/problems/maximize-active-section-with-trade-ii/submissions/2077122737/?envType=daily-question&envId=2026-07-22)|c | `chooseatype` | Jul 22, 2026 |
 | 3824 | [Number Of Unique XOR Triplets I](https://leetcode.com/problems/number-of-unique-xor-triplets-i/submissions/2078294353/?envType=daily-question&envId=2026-07-23) |🟡 Medium |`chooseatype` | Jul 23, 2026 |
 | 3514 | [Number Of Unique XOR Triplets I](https://leetcode.com/problems/number-of-unique-xor-triplets-ii/submissions/2079174973/?envType=daily-question&envId=2026-07-25) |🟡 Medium |`chooseatype` | Jul 24, 2026 |
 | 3536 | [Maximum Product Of Two Digits ](https://leetcode.com/problems/maximum-product-of-two-digits/submissions/?envType=daily-question&envId=2026-07-25)|🟢 Easy  |  `chooseatype` | Jul 25, 2026 |

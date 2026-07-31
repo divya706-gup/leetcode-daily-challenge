@@ -4,7 +4,7 @@
 **Topics:** Hash Table, String, Greedy, Sorting, Counting  
 **Link:** https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/
 
-**Runtime:** 25 ms | **Memory:** 27 MB
+**Runtime:** 42 ms | **Memory:** 27.3 MB
 
 ---
 

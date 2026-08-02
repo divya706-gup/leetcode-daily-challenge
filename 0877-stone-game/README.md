@@ -4,7 +4,7 @@
 **Topics:** Array, Math, Dynamic Programming, Game Theory  
 **Link:** https://leetcode.com/problems/stone-game/
 
-**Runtime:** 3 ms | **Memory:** 10.5 MB
+**Runtime:** 0 ms | **Memory:** 10.8 MB
 
 ---
 

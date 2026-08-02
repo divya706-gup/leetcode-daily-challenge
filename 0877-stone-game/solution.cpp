@@ -11,6 +11,6 @@ public:
                 dp[j]=max(piles[i]-dp[j-1],piles[j]-dp[j]);
             }
         }
-        return true;
+        return dp[0]>0;
     }
 };

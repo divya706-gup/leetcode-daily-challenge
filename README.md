@@ -42,4 +42,5 @@ This repository is a curated collection of my daily problem-solving efforts, fea
 | 3014 |[Minimum Number of Pushes to Type Word I](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/?envType=daily-question&envId=2026-07-30) |🟢 Easy |`chooseatype` | Jul 30, 2026 |
 | 3017 |[Minimum Number of Pushes to Type Word I](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/description/?envType=daily-question&envId=2026-07-31) |🟡 Medium  |`chooseatype` | Jul 31, 2026 |
 | 486 | [Predict the Winner](https://leetcode.com/problems/predict-the-winner/description/?envType=daily-question&envId=2026-08-01) |🟡 Medium |`chooseatype` | Aug 01, 2026 |
+| 877 | [Stone Game](https://leetcode.com/problems/stone-game/submissions/2090876476/?envType=daily-question&envId=2026-08-02)|🟡 Medium |`chooseatype` | Aug 02, 2026 |
 *Last updated: Sun, 19 Jul 2026 07:33:21 GMT*

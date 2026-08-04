@@ -43,4 +43,6 @@ This repository is a curated collection of my daily problem-solving efforts, fea
 | 3017 |[Minimum Number of Pushes to Type Word I](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/description/?envType=daily-question&envId=2026-07-31) |🟡 Medium  |`chooseatype` | Jul 31, 2026 |
 | 486 | [Predict the Winner](https://leetcode.com/problems/predict-the-winner/description/?envType=daily-question&envId=2026-08-01) |🟡 Medium |`chooseatype` | Aug 01, 2026 |
 | 877 | [Stone Game](https://leetcode.com/problems/stone-game/submissions/2090876476/?envType=daily-question&envId=2026-08-02)|🟡 Medium |`chooseatype` | Aug 02, 2026 |
+| 1406 | [Stone GameIII](https://leetcode.com/problems/stone-game-iii/submissions/2092856422/?envType=daily-question&envId=2026-08-03)| 🔴 Hard |`chooseatype` | Aug 03, 2026 |
+| 3731 |[Find Missing Elements](https://leetcode.com/problems/find-missing-elements/description/?envType=daily-question&envId=2026-08-04)|🟢 Easy |`chooseatype` | Aug 04, 2026 |
 *Last updated: Sun, 19 Jul 2026 07:33:21 GMT*

@@ -46,4 +46,5 @@ This repository is a curated collection of my daily problem-solving efforts, fea
 | 1406 | [Stone GameIII](https://leetcode.com/problems/stone-game-iii/submissions/2092856422/?envType=daily-question&envId=2026-08-03)| 🔴 Hard |`chooseatype` | Aug 03, 2026 |
 | 3731 |[Find Missing Elements](https://leetcode.com/problems/find-missing-elements/description/?envType=daily-question&envId=2026-08-04)|🟢 Easy |`chooseatype` | Aug 04, 2026 |
 | 3310 | [Remove Methods From Projects](https://leetcode.com/problems/remove-methods-from-project/editorial/?envType=daily-question&envId=2026-08-05)|🟡 Medium |`chooseatype` | Aug 05, 2026 |
+| 3345 | [Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/submissions/2095977663/?envType=daily-question&envId=2026-08-06)|🟢 Easy |`chooseatype` | Aug 06, 2026 |
 *Last updated: Sun, 19 Jul 2026 07:33:21 GMT*

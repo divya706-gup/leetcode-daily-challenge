@@ -4,7 +4,7 @@
 **Topics:** Array, Math, Dynamic Programming, Minimax, Prefix Sum, Game Theory, Zero-Sum Game  
 **Link:** https://leetcode.com/problems/stone-game-ii/
 
-**Runtime:** 3 ms | **Memory:** 13.6 MB
+**Runtime:** 7 ms | **Memory:** 13.6 MB
 
 ---
 

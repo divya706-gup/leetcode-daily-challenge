@@ -54,4 +54,5 @@ This repository is a curated collection of my daily problem-solving efforts, fea
 | 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/description/?envType=daily-question&envId=2026-08-11)|🟢 Easy |`chooseatype` | Aug 11, 2026 |
 | 2958 | [Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/submissions/?envType=daily-question&envId=2026-08-12)|🟡 Medium |`chooseatype` | Aug 12, 2026 |
 | 2213|  [Longest Substring of One Repeating Character](https://leetcode.com/problems/longest-substring-of-one-repeating-character/description/?envType=daily-question&envId=2026-08-13)|🔴 Hard|`chooseatype` | Aug 13, 2026 |
+| 3090 | [Maximum Length Substring With Two Occurences](https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/?envType=daily-question&envId=2026-08-14)|🟢 Easy |`chooseatype` | Aug 14, 2026 |
 *Last updated: Sun, 19 Jul 2026 07:33:21 GMT*

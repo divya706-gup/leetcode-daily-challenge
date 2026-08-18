@@ -58,4 +58,5 @@ This repository is a curated collection of my daily problem-solving efforts, fea
 | 3702 | [ Longest Subsequences With Non-Zero Bitwise XOR](https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/description/?envType=daily-question&envId=2026-08-15)|🟡 Medium |`chooseatype` | Aug 15, 2026 |
 | 2029 | [Stone Game IX](https://leetcode.com/problems/stone-game-ix/description/?envType=daily-question&envId=2026-08-16) |🟡 Medium |`chooseatype` | Aug 16, 2026 |
 | 1563 | [Stone Game V](https://leetcode.com/problems/stone-game-v/description/?envType=daily-question&envId=2026-08-17)|🔴 Hard|`chooseatype` | Aug 17, 2026 |
+| 3471 | [Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/description/?envType=daily-question&envId=2026-08-18)|🟢 Easy |`chooseatype` | Aug 18, 2026 |
 *Last updated: Sun, 19 Jul 2026 07:33:21 GMT*

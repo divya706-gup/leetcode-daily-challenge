@@ -60,4 +60,5 @@ This repository is a curated collection of my daily problem-solving efforts, fea
 | 1563 | [Stone Game V](https://leetcode.com/problems/stone-game-v/description/?envType=daily-question&envId=2026-08-17)|🔴 Hard|`chooseatype` | Aug 17, 2026 |
 | 3471 | [Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/description/?envType=daily-question&envId=2026-08-18)|🟢 Easy |`chooseatype` | Aug 18, 2026 |
 | 1386 | [Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/description/?envType=daily-question&envId=2026-08-19)|🟡 Medium |`chooseatype` | Aug 19, 2026 |
+| 3069 | [Distribute Element Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/description/?envType=daily-question&envId=2026-08-20)|🟢 Easy |`chooseatype` | Aug 20, 2026 |
 *Last updated: Sun, 19 Jul 2026 07:33:21 GMT*

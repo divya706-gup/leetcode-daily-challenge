@@ -62,4 +62,5 @@ This repository is a curated collection of my daily problem-solving efforts, fea
 | 1386 | [Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/description/?envType=daily-question&envId=2026-08-19)|🟡 Medium |`chooseatype` | Aug 19, 2026 |
 | 3069 | [Distribute Element Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/description/?envType=daily-question&envId=2026-08-20)|🟢 Easy |`chooseatype` | Aug 20, 2026 |
 | 3116 | [Kth Smallest Amount With Single Denomination](https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/description/?envType=daily-question&envId=2026-08-21)|🔴 Hard|`chooseatype` | Aug 21, 2026 |
+| 3622 | [Check Divisibility By Digit Sum and Product](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/description/?envType=daily-question&envId=2026-08-22)|🟢 Easy |`chooseatype` | Aug 22, 2026 |
 *Last updated: Sun, 19 Jul 2026 07:33:21 GMT*

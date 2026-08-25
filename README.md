@@ -65,4 +65,5 @@ This repository is a curated collection of my daily problem-solving efforts, fea
 | 3622 | [Check Divisibility By Digit Sum and Product](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/description/?envType=daily-question&envId=2026-08-22)|🟢 Easy |`chooseatype` | Aug 22, 2026 |
 | 1927 | [Sum Game](https://leetcode.com/problems/sum-game/description/?envType=daily-question&envId=2026-08-23)|🟡 Medium |`chooseatype` | Aug 23, 2026 |
 | 1827 | [Stone Game VIII](https://leetcode.com/problems/stone-game-viii/description/?envType=daily-question&envId=2026-08-24)|🔴 Hard|`chooseatype` | Aug 24, 2026 |
+| 3718 | [Smallest Missing Multiple Of k](https://leetcode.com/problems/smallest-missing-multiple-of-k/description/?envType=daily-question&envId=2026-08-25)|🟢 Easy |`chooseatype` | Aug 25, 2026 |
 *Last updated: Sun, 19 Jul 2026 07:33:21 GMT*

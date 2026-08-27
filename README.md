@@ -67,4 +67,5 @@ This repository is a curated collection of my daily problem-solving efforts, fea
 | 1827 | [Stone Game VIII](https://leetcode.com/problems/stone-game-viii/description/?envType=daily-question&envId=2026-08-24)|🔴 Hard|`chooseatype` | Aug 24, 2026 |
 | 3718 | [Smallest Missing Multiple Of k](https://leetcode.com/problems/smallest-missing-multiple-of-k/description/?envType=daily-question&envId=2026-08-25)|🟢 Easy |`chooseatype` | Aug 25, 2026 |
 | 2904 | [Shortest and Lexicographically Smallest Beautiful String](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/description/?envType=daily-question&envId=2026-08-26)|🟡 Medium |`chooseatype` | Aug 26, 2026 |
+| 3720 | [Lexicographically Smallest Permutation Greater Than Target](https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target/description/?envType=daily-question&envId=2026-08-27)|🟡 Medium |`chooseatype` | Aug 27, 2026 |
 *Last updated: Sun, 19 Jul 2026 07:33:21 GMT*

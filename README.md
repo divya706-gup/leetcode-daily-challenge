@@ -71,4 +71,5 @@ This repository is a curated collection of my daily problem-solving efforts, fea
 | 3734 | [Lexicographically Smallest Pallindromic Permutation Greater Than Target](https://leetcode.com/problems/lexicographically-smallest-palindromic-permutation-greater-than-target/description/?envType=daily-question&envId=2026-08-27)|🔴 Hard|`chooseatype` | Aug 28, 2026 |
 | 2948 | [Make Lexicographically Smallest Array By Swapping Elements](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/description/?envType=daily-question&envId=2026-08-29)|🟡 Medium |`chooseatype` | Aug 29, 2026 |
 | 2091 | [Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/description/?envType=daily-question&envId=2026-08-30)|🟡 Medium |`chooseatype` | Aug 30, 2026 |
+| 2058 | [Find The Minimum And Maximum Number Of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/description/?envType=daily-question&envId=2026-08-31)|🟡 Medium |`chooseatype` | Aug 31, 2026 |
 *Last updated: Sun, 19 Jul 2026 07:33:21 GMT*

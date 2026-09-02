@@ -3,8 +3,8 @@ Welcome to my LeetCode journey! 🎯
 This repository is a curated collection of my daily problem-solving efforts, featuring optimized solutions, clean code, and detailed complexity analysis. Built to track consistency and master data structures & algorithms.
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-63-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-18-brightgreen?style=flat-square)
+![Total](https://img.shields.io/badge/Total-64-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-19-brightgreen?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-28-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-15-red?style=flat-square)
 
@@ -72,5 +72,6 @@ This repository is a curated collection of my daily problem-solving efforts, fea
 | 2948 | [Make Lexicographically Smallest Array By Swapping Elements](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/description/?envType=daily-question&envId=2026-08-29)|🟡 Medium |`chooseatype` | Aug 29, 2026 |
 | 2091 | [Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/description/?envType=daily-question&envId=2026-08-30)|🟡 Medium |`chooseatype` | Aug 30, 2026 |
 | 2058 | [Find The Minimum And Maximum Number Of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/description/?envType=daily-question&envId=2026-08-31)|🟡 Medium |`chooseatype` | Aug 31, 2026 |
-| 3568 | [Minimum Moves to Clean The Classroom](https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/description/?envType=daily-question&envId=2026-09-01)|🟡 Medium |`chooseatype` | 01 Sept, 2026 |
+| 3568 | [Minimum Moves to Clean The Classroom](https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/description/?envType=daily-question&envId=2026-09-01)|🟡 Medium |`chooseatype` | Sept 01, 2026 |
+| 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/description/?envType=daily-question&envId=2026-09-02)|🟢 Easy |`chooseatype` | Sept 02, 2026 |
 *Last updated: Sun, 19 Jul 2026 07:33:21 GMT*

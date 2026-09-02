@@ -9,7 +9,7 @@ public:
                 odd = false;
             } else {
                 odd = true;
-                even = true;
+                even = false;
             }
         }
         vector<int>nums2(nums1.size());

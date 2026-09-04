@@ -3,8 +3,8 @@ Welcome to my LeetCode journey! 🎯
 This repository is a curated collection of my daily problem-solving efforts, featuring optimized solutions, clean code, and detailed complexity analysis. Built to track consistency and master data structures & algorithms.
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-65-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-19-brightgreen?style=flat-square)
+![Total](https://img.shields.io/badge/Total-66-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-20-brightgreen?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-29-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-15-red?style=flat-square)
 
@@ -75,4 +75,5 @@ This repository is a curated collection of my daily problem-solving efforts, fea
 | 3568 | [Minimum Moves to Clean The Classroom](https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/description/?envType=daily-question&envId=2026-09-01)|🟡 Medium |`chooseatype` | Sept 01, 2026 |
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/description/?envType=daily-question&envId=2026-09-02)|🟢 Easy |`chooseatype` | Sept 02, 2026 |
 | 3876 | [Construct Uniform Parity Array II](https://leetcode.com/problems/construct-uniform-parity-array-ii/?envType=daily-question&envId=2026-09-03)|🟡 Medium |`chooseatype` | Sept 03, 2026 |
+| 3903 | [Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i/description/?envType=daily-question&envId=2026-09-04)|🟢 Easy |`chooseatype` | Sept 04, 2026 |
 *Last updated: Sun, 19 Jul 2026 07:33:21 GMT*

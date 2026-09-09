@@ -3,9 +3,9 @@ Welcome to my LeetCode journey! 🎯
 This repository is a curated collection of my daily problem-solving efforts, featuring optimized solutions, clean code, and detailed complexity analysis. Built to track consistency and master data structures & algorithms.
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-70-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-71-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-21-brightgreen?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-30-yellow?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-31-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-17-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
@@ -80,4 +80,5 @@ This repository is a curated collection of my daily problem-solving efforts, fea
 | 115 | [Distinct Subsequences ](https://leetcode.com/problems/distinct-subsequences/?envType=daily-question&envId=2026-09-06)|🔴 Hard|`chooseatype` | Sept 06, 2026 |
 | 940 | [Distinct Subsequences ](https://leetcode.com/problems/distinct-subsequences-ii/submissions/2133437397/?envType=daily-question&envId=2026-09-07)|🔴 Hard|`chooseatype` | Sept 07, 2026 |
 | 3870 | [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range/description/?envType=daily-question&envId=2026-09-08)|🟢 Easy |`chooseatype` | Sept 08, 2026 |
+| 3871 | [Count Commas in Range II](https://leetcode.com/problems/count-commas-in-range-ii/description/?envType=daily-question&envId=2026-09-09)|🟡 Medium |`chooseatype` | Sept 09, 2026 |
 *Last updated: Sun, 19 Jul 2026 07:33:21 GMT*

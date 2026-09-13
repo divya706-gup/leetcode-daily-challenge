@@ -3,10 +3,10 @@ Welcome to my LeetCode journey! 🎯
 This repository is a curated collection of my daily problem-solving efforts, featuring optimized solutions, clean code, and detailed complexity analysis. Built to track consistency and master data structures & algorithms.
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-73-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-75-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-22-brightgreen?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-32-yellow?style=flat-square)
-![Hard](https://img.shields.io/badge/Hard-17-red?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-33-yellow?style=flat-square)
+![Hard](https://img.shields.io/badge/Hard-18-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
 |---|---------|------------|----------|--------|
@@ -83,4 +83,6 @@ This repository is a curated collection of my daily problem-solving efforts, fea
 | 3871 | [Count Commas in Range II](https://leetcode.com/problems/count-commas-in-range-ii/description/?envType=daily-question&envId=2026-09-09)|🟡 Medium |`chooseatype` | Sept 09, 2026 |
 | 2265 | [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/description/?envType=daily-question&envId=2026-09-10)|🟡 Medium |`chooseatype` | Sept 10, 2026 |
 | 3483 | [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers/submissions/2138110232/?envType=daily-question&envId=2026-09-11)|🟢 Easy |`chooseatype` | Sept 11, 2026 |
+| 3414 | [Maximum Score of Non-Overlapping Intervals](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/?envType=daily-question&envId=2026-09-12)|🔴 Hard|`chooseatype` | Sept 12, 2026 |
+| 835 | [Image Overlap](https://leetcode.com/problems/image-overlap/?envType=daily-question&envId=2026-09-13)|🟡 Medium |`chooseatype` | Sept 13, 2026 |
 *Last updated: Sun, 19 Jul 2026 07:33:21 GMT*

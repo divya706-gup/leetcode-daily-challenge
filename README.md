@@ -3,10 +3,10 @@ Welcome to my LeetCode journey! 🎯
 This repository is a curated collection of my daily problem-solving efforts, featuring optimized solutions, clean code, and detailed complexity analysis. Built to track consistency and master data structures & algorithms.
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-76-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-77-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-23-brightgreen?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-33-yellow?style=flat-square)
-![Hard](https://img.shields.io/badge/Hard-18-red?style=flat-square)
+![Hard](https://img.shields.io/badge/Hard-19-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
 |---|---------|------------|----------|--------|
@@ -86,4 +86,5 @@ This repository is a curated collection of my daily problem-solving efforts, fea
 | 3414 | [Maximum Score of Non-Overlapping Intervals](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/?envType=daily-question&envId=2026-09-12)|🔴 Hard|`chooseatype` | Sept 12, 2026 |
 | 835 | [Image Overlap](https://leetcode.com/problems/image-overlap/?envType=daily-question&envId=2026-09-13)|🟡 Medium |`chooseatype` | Sept 13, 2026 |
 | 836 | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/description/?envType=daily-question&envId=2026-09-14)|🟢 Easy |`chooseatype` | Sept 14,2026 |
+| 2472 |[Maximum Number Of Non - Overlapping Pallindrome Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/description/?envType=daily-question&envId=2026-09-15)|🔴 Hard|`chooseatype` | Sept 15, 2026 |
 *Last updated: Sun, 19 Jul 2026 07:33:21 GMT*

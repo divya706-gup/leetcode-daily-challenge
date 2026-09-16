@@ -4,7 +4,7 @@
 **Topics:** Math, Dynamic Programming, Combinatorics, Prefix Sum  
 **Link:** https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/
 
-**Runtime:** 71 ms | **Memory:** 145.4 MB
+**Runtime:** 75 ms | **Memory:** 145.3 MB
 
 ---
 

@@ -3,9 +3,9 @@ Welcome to my LeetCode journey! 🎯
 This repository is a curated collection of my daily problem-solving efforts, featuring optimized solutions, clean code, and detailed complexity analysis. Built to track consistency and master data structures & algorithms.
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-78-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-79-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-23-brightgreen?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-34-yellow?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-35-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-19-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
@@ -88,4 +88,5 @@ This repository is a curated collection of my daily problem-solving efforts, fea
 | 836 | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/description/?envType=daily-question&envId=2026-09-14)|🟢 Easy |`chooseatype` | Sept 14,2026 |
 | 2472 |[Maximum Number Of Non - Overlapping Pallindrome Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/description/?envType=daily-question&envId=2026-09-15)|🔴 Hard|`chooseatype` | Sept 15, 2026 |
 | 1621 |[Number of Sets Of K Non - Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/submissions/2143145013/?envType=daily-question&envId=2026-09-16)|🟡 Medium |`chooseatype` | Sept 16, 2026 |
-*Last updated: Wed,16 Sept 2026 06:47am GMT*
+| 1477 | [Find Two Non-Overlapping Subarrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/description/?envType=daily-question&envId=2026-09-17)|🟡 Medium |`chooseatype` | Sept 17, 2026 |
+*Last updated: Thu,17 Sept 2026 06:08am GMT*

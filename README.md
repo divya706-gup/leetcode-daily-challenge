@@ -3,9 +3,9 @@ Welcome to my LeetCode journey! 🎯
 This repository is a curated collection of my daily problem-solving efforts, featuring optimized solutions, clean code, and detailed complexity analysis. Built to track consistency and master data structures & algorithms.
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-80-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-81-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-23-brightgreen?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-35-yellow?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-36-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-20-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
@@ -90,4 +90,5 @@ This repository is a curated collection of my daily problem-solving efforts, fea
 | 1621 |[Number of Sets Of K Non - Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/submissions/2143145013/?envType=daily-question&envId=2026-09-16)|🟡 Medium |`chooseatype` | Sept 16, 2026 |
 | 1477 | [Find Two Non-Overlapping Subarrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/description/?envType=daily-question&envId=2026-09-17)|🟡 Medium |`chooseatype` | Sept 17, 2026 |
 | 1520 | [Maximum Number Of Non-Overlapping Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/description/?envType=daily-question&envId=2026-09-18)|🔴 Hard|`chooseatype` | Sept 18, 2026 |
-*Last updated: Fri,18 Sept 2026 09:56am GMT*
+| 1401 | [Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/description/?envType=daily-question&envId=2026-09-19)|🟡 Medium |`chooseatype` | Sept 19, 2026 |
+*Last updated: Sat,19 Sept 2026 09:56am GMT*

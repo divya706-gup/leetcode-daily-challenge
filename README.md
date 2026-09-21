@@ -3,9 +3,9 @@ Welcome to my LeetCode journey! 🎯
 This repository is a curated collection of my daily problem-solving efforts, featuring optimized solutions, clean code, and detailed complexity analysis. Built to track consistency and master data structures & algorithms.
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-82-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-83-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-24-brightgreen?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-36-yellow?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-37-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-20-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
@@ -92,4 +92,5 @@ This repository is a curated collection of my daily problem-solving efforts, fea
 | 1520 | [Maximum Number Of Non-Overlapping Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/description/?envType=daily-question&envId=2026-09-18)|🔴 Hard|`chooseatype` | Sept 18, 2026 |
 | 1401 | [Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/description/?envType=daily-question&envId=2026-09-19)|🟡 Medium |`chooseatype` | Sept 19, 2026 |
 | 3498 | [Reverse Degree Of a String](https://leetcode.com/problems/reverse-degree-of-a-string/description/?envType=daily-question&envId=2026-09-20)|🟢 Easy |`chooseatype` | Sept 20, 2026 |
-*Last updated: Sun,20 Sept 2026 10:19am GMT*
+| 3524| [Find X Value Of Array I](https://leetcode.com/problems/find-x-value-of-array-i/submissions/2148150315/?envType=daily-question&envId=2026-09-21)|🟡 Medium |`chooseatype` | Sept 21, 2026 |
+*Last updated: Mon ,21 Sept 2026 06 : 03am GMT*

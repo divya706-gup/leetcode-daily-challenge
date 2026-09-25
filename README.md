@@ -3,10 +3,10 @@ Welcome to my LeetCode journey! 🎯
 This repository is a curated collection of my daily problem-solving efforts, featuring optimized solutions, clean code, and detailed complexity analysis. Built to track consistency and master data structures & algorithms.
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-86-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-87-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-25-brightgreen?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-38-yellow?style=flat-square)
-![Hard](https://img.shields.io/badge/Hard-21-red?style=flat-square)
+![Hard](https://img.shields.io/badge/Hard-22-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
 |---|---------|------------|----------|--------|
@@ -96,4 +96,5 @@ This repository is a curated collection of my daily problem-solving efforts, fea
 | 3525 |[Find X Value Of Array](https://leetcode.com/problems/find-x-value-of-array-ii/?envType=daily-question&envId=2026-09-22)|🔴 Hard|`chooseatype` | Sept 22, 2026 |
 | 1658 |[Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/submissions/2151052088/?envType=daily-question&envId=2026-09-23)|🟡 Medium |`chooseatype` | Sept 23, 2026 |
 | 3550 |[Smallest Index With Digit Sum Equal To Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/submissions/2151524344/?envType=daily-question&envId=2026-09-24)|🟢 Easy |`chooseatype` | Sept 24, 2026 |
+| 1096 |[Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii/description/?envType=daily-question&envId=2026-09-25)|🔴 Hard|`chooseatype` | Sept 25, 2026 |
 *Last updated: Thu ,24 Sept 2026 09:23am GMT*

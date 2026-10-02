@@ -3,9 +3,9 @@ Welcome to my LeetCode journey! 🎯
 This repository is a curated collection of my daily problem-solving efforts, featuring optimized solutions, clean code, and detailed complexity analysis. Built to track consistency and master data structures & algorithms.
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-93-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-94-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-27-brightgreen?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-41-yellow?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-42-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-23-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
@@ -103,4 +103,5 @@ This repository is a curated collection of my daily problem-solving efforts, fea
 | 2267 |[Check If There is a Valid Parentheses String Path](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/description/?envType=daily-question&envId=2026-09-29)|🔴 Hard|`chooseatype` | Sept 29, 2026 |
 | 1111 |[Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/description/?envType=daily-question&envId=2026-09-30)|🟡 Medium |`chooseatype` | Sept 30, 2026 |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/?envType=daily-question&envId=2026-10-01)|🟢 Easy |`chooseatype` | Oct 01, 2026 |
-*Last updated: Wed ,30 Sept 2026 05:27am GMT*
+| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/?envType=daily-question&envId=2026-10-02)|🟡 Medium |`chooseatype` | Oct 02, 2026 |
+*Last updated: Fri ,02 Oct 2026 09:58am GMT*

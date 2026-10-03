@@ -4,7 +4,7 @@
 **Topics:** String, Dynamic Programming, Stack, Bracket Sequences  
 **Link:** https://leetcode.com/problems/longest-valid-parentheses/
 
-**Runtime:** 3 ms | **Memory:** 11.8 MB
+**Runtime:** 0 ms | **Memory:** 11.6 MB
 
 ---
 

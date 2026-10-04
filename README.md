@@ -3,9 +3,9 @@ Welcome to my LeetCode journey! 🎯
 This repository is a curated collection of my daily problem-solving efforts, featuring optimized solutions, clean code, and detailed complexity analysis. Built to track consistency and master data structures & algorithms.
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-95-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-96-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-27-brightgreen?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-42-yellow?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-43-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-24-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
@@ -105,4 +105,5 @@ This repository is a curated collection of my daily problem-solving efforts, fea
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/?envType=daily-question&envId=2026-10-01)|🟢 Easy |`chooseatype` | Oct 01, 2026 |
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/?envType=daily-question&envId=2026-10-02)|🟡 Medium |`chooseatype` | Oct 02, 2026 |
 | 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/?envType=daily-question&envId=2026-10-03)|🔴 Hard|`chooseatype` | Oct 03, 2026 |
-*Last updated:Sat,03 Oct 2026 06:43am GMT*
+| 678 |[Valid Parentheses String](https://leetcode.com/problems/valid-parenthesis-string/description/?envType=daily-question&envId=2026-10-04)|🟡 Medium |`chooseatype` | Oct 04, 2026 |
+*Last updated:Sun,04 Oct 2026 05:53am GMT*

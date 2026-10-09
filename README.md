@@ -3,9 +3,9 @@ Welcome to my LeetCode journey! 🎯
 This repository is a curated collection of my daily problem-solving efforts, featuring optimized solutions, clean code, and detailed complexity analysis. Built to track consistency and master data structures & algorithms.
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-100-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-101-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-28-brightgreen?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-45-yellow?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-46-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-25-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
@@ -110,4 +110,5 @@ This repository is a curated collection of my daily problem-solving efforts, fea
 | 921 |[Minimum Add to Make Parenthesis Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/?envType=daily-question&envId=2026-10-06)|🟡 Medium |`chooseatype` | Oct 06, 2026 |
 | 301 |[Remove Invalid parenthesis](https://leetcode.com/problems/remove-invalid-parentheses/description/?envType=daily-question&envId=2026-10-07)|🔴 Hard|`chooseatype` | Oct 07, 2026 |
 | 1021 |[Remove OuterMost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/description/?envType=daily-question&envId=2026-10-08) |🟢 Easy |`chooseatype` | Oct 08, 2026 |
+| 1541 |[Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/description/?envType=daily-question&envId=2026-10-09)|🟡 Medium |`chooseatype` | Oct 09, 2026 |
 *Last updated:Thu,08 Oct 2026 12:00pm GMT*

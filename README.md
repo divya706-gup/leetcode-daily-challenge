@@ -3,9 +3,9 @@ Welcome to my LeetCode journey! 🎯
 This repository is a curated collection of my daily problem-solving efforts, featuring optimized solutions, clean code, and detailed complexity analysis. Built to track consistency and master data structures & algorithms.
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-101-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-28-brightgreen?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-46-yellow?style=flat-square)
+![Total](https://img.shields.io/badge/Total-103-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-29-brightgreen?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-47-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-25-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
@@ -111,4 +111,6 @@ This repository is a curated collection of my daily problem-solving efforts, fea
 | 301 |[Remove Invalid parenthesis](https://leetcode.com/problems/remove-invalid-parentheses/description/?envType=daily-question&envId=2026-10-07)|🔴 Hard|`chooseatype` | Oct 07, 2026 |
 | 1021 |[Remove OuterMost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/description/?envType=daily-question&envId=2026-10-08) |🟢 Easy |`chooseatype` | Oct 08, 2026 |
 | 1541 |[Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/description/?envType=daily-question&envId=2026-10-09)|🟡 Medium |`chooseatype` | Oct 09, 2026 |
-*Last updated:Thu,08 Oct 2026 12:00pm GMT*
+| 2333 |[Minimum Sum Of Squared Difference](https://leetcode.com/problems/minimum-sum-of-squared-difference/description/?envType=daily-question&envId=2026-10-10)|🟡 Medium |`chooseatype` | Oct 10, 2026 |
+| 2778 |[Sum of Squares of Special Integers](https://leetcode.com/problems/sum-of-squares-of-special-elements/?envType=daily-question&envId=2026-10-11)|🟢 Easy |`chooseatype` | Oct 11, 2026 |
+*Last updated:Sat,11 Oct 2026 11:00pm GMT*

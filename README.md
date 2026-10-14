@@ -3,9 +3,9 @@ Welcome to my LeetCode journey! 🎯
 This repository is a curated collection of my daily problem-solving efforts, featuring optimized solutions, clean code, and detailed complexity analysis. Built to track consistency and master data structures & algorithms.
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-105-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-106-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-29-brightgreen?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-48-yellow?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-49-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-26-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
@@ -115,4 +115,5 @@ This repository is a curated collection of my daily problem-solving efforts, fea
 | 2778 |[Sum of Squares of Special Integers](https://leetcode.com/problems/sum-of-squares-of-special-elements/?envType=daily-question&envId=2026-10-11)|🟢 Easy |`chooseatype` | Oct 11, 2026 |
 | 2897 |[Apply Operations On Array to maximize Sum Of Squares](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/submissions/2169886629/?envType=daily-question&envId=2026-10-12)|🔴 Hard|`chooseatype` | Oct 12, 2026 |
 | 3727 |[Maximum Alternating Sum Of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares/description/?envType=daily-question&envId=2026-10-13)|🟡 Medium |`chooseatype` | Oct 13, 2026 |
-*Last updated:Tue,13 Oct 2026 08:26am GMT*
+| 3723 |[Maximum Sum Of Squares Of Digits](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/description/?envType=daily-question&envId=2026-10-14)|🟡 Medium |`chooseatype` | Oct 14, 2026 |
+*Last updated:Wed,14 Oct 2026 07:40am GMT*

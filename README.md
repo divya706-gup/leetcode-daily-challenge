@@ -3,10 +3,10 @@ Welcome to my LeetCode journey! 🎯
 This repository is a curated collection of my daily problem-solving efforts, featuring optimized solutions, clean code, and detailed complexity analysis. Built to track consistency and master data structures & algorithms.
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-109-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-110-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-30-brightgreen?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-50-yellow?style=flat-square)
-![Hard](https://img.shields.io/badge/Hard-27-red?style=flat-square)
+![Hard](https://img.shields.io/badge/Hard-28-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
 |---|---------|------------|----------|--------|
@@ -119,4 +119,5 @@ This repository is a curated collection of my daily problem-solving efforts, fea
 | 2913 |[Subarrays Distinct Elements Sum Of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/?envType=daily-question&envId=2026-10-15)|🟢 Easy |`chooseatype` | Oct 15, 2026 |
 | 2916 |[Subarrays Distinct Elements Sum Of Squares II](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/description/?envType=daily-question&envId=2026-10-16)|🔴 Hard|`chooseatype` | Oct 16, 2026 |
 | 3551 |[Minimum Swaps to Sort By Digit Sum](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/description/?envType=daily-question&envId=2026-10-17)|🟡 Medium |`chooseatype` | Oct 17, 2026 |
+| 1569 |[Number Of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/description/?envType=daily-question&envId=2026-10-18)|🔴 Hard|`chooseatype` | Oct 18, 2026 |
 *Last updated:Sat,17 Oct 2026 06:40pm GMT*

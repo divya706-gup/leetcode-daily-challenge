@@ -3,10 +3,10 @@ Welcome to my LeetCode journey! 🎯
 This repository is a curated collection of my daily problem-solving efforts, featuring optimized solutions, clean code, and detailed complexity analysis. Built to track consistency and master data structures & algorithms.
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-111-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-112-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-31-brightgreen?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-50-yellow?style=flat-square)
-![Hard](https://img.shields.io/badge/Hard-28-red?style=flat-square)
+![Hard](https://img.shields.io/badge/Hard-29-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
 |---|---------|------------|----------|--------|
@@ -121,4 +121,5 @@ This repository is a curated collection of my daily problem-solving efforts, fea
 | 3551 |[Minimum Swaps to Sort By Digit Sum](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/description/?envType=daily-question&envId=2026-10-17)|🟡 Medium |`chooseatype` | Oct 17, 2026 |
 | 1569 |[Number Of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/description/?envType=daily-question&envId=2026-10-18)|🔴 Hard|`chooseatype` | Oct 18, 2026 |
 | 2089 |[Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/description/?envType=daily-question&envId=2026-10-19)|🟢 Easy |`chooseatype` | Oct 19, 2026 |
-*Last updated:Sat,17 Oct 2026 06:40pm GMT*
+| 3886 |[Sum Of Sortable Integers](https://leetcode.com/problems/sum-of-sortable-integers/description/?envType=daily-question&envId=2026-10-20)|🔴 Hard|`chooseatype` | Oct 20, 2026 |
+*Last updated:Tue,21 Oct 2026 06:40am

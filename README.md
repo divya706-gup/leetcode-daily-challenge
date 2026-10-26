@@ -3,9 +3,9 @@ Welcome to my LeetCode journey! 🎯
 This repository is a curated collection of my daily problem-solving efforts, featuring optimized solutions, clean code, and detailed complexity analysis. Built to track consistency and master data structures & algorithms.
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-113-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-114-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-31-brightgreen?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-51-yellow?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-52-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-29-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
@@ -123,4 +123,5 @@ This repository is a curated collection of my daily problem-solving efforts, fea
 | 2089 |[Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/description/?envType=daily-question&envId=2026-10-19)|🟢 Easy |`chooseatype` | Oct 19, 2026 |
 | 3886 |[Sum Of Sortable Integers](https://leetcode.com/problems/sum-of-sortable-integers/description/?envType=daily-question&envId=2026-10-20)|🔴 Hard|`chooseatype` | Oct 20, 2026 |
 | 3863 |[Minimum Operations to Sort a String](https://leetcode.com/problems/minimum-operations-to-sort-a-string/description/?envType=daily-question&envId=2026-10-21)|🟡 Medium |`chooseatype` | Oct 21, 2026 |
+| 3619 |[Count Islands With Total Value Divisible By k](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/submissions/2182433348/?envType=daily-question&envId=2026-10-26)|🟡 Medium |`chooseatype` | Oct 26, 2026 |
 *Last updated:Wed,21 Oct 2026 06:40pm

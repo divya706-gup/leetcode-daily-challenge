@@ -3,8 +3,8 @@ Welcome to my LeetCode journey! 🎯
 This repository is a curated collection of my daily problem-solving efforts, featuring optimized solutions, clean code, and detailed complexity analysis. Built to track consistency and master data structures & algorithms.
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-117-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-31-brightgreen?style=flat-square)
+![Total](https://img.shields.io/badge/Total-118-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-32-brightgreen?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-55-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-29-red?style=flat-square)
 
@@ -127,4 +127,5 @@ This repository is a curated collection of my daily problem-solving efforts, fea
 | 3665 |[Twisted Mirror Path Count](https://leetcode.com/problems/twisted-mirror-path-count/submissions/2186359593/?envType=daily-question&envId=2026-10-31)|🟡 Medium |`chooseatype` | Oct 31, 2026 |
 | 453 |[Minimum Moves To Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/submissions/2186735012/?envType=daily-question&envId=2026-11-01)|🟡 Medium |`chooseatype` | Nov 01, 2026 |
 | 462 |[Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/submissions/2187489745/?envType=daily-question&envId=2026-11-02)|🟡 Medium |`chooseatype` | Nov 02, 2026 |
-*Last updated:Wed,21 Oct 2026 06:40pm
+| 3736 |[Minimum Moves to Equal Array Elements III](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/description/?envType=daily-question&envId=2026-11-03)|🟢 Easy |`chooseatype` | Nov 03, 2026 |
+*Last updated:Tue,03 Nov 2026 10:40am

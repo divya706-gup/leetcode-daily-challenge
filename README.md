@@ -3,7 +3,7 @@ Welcome to my LeetCode journey! 🎯
 This repository is a curated collection of my daily problem-solving efforts, featuring optimized solutions, clean code, and detailed complexity analysis. Built to track consistency and master data structures & algorithms.
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-121-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-122-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-33-brightgreen?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-57-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-29-red?style=flat-square)
@@ -131,4 +131,5 @@ This repository is a curated collection of my daily problem-solving efforts, fea
 | 1385 |[Find Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/submissions/2190071579/?envType=daily-question&envId=2026-11-05)|🟢 Easy |`chooseatype` | Nov 05, 2026 |
 | 2747 |[Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers/description/?envType=daily-question&envId=2026-11-06)|🟡 Medium |`chooseatype` | Nov 06, 2026 |
 | 1882 |[Process Tasks Using Servers](https://leetcode.com/problems/process-tasks-using-servers/description/?envType=daily-question&envId=2026-11-07)|🟡 Medium |`chooseatype` | Nov 07, 2026 |
+| 1267 |[Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/?envType=daily-question&envId=2026-11-08)|🟡 Medium |`chooseatype` | Nov 08, 2026 |
 *Last updated:Sat,07 Nov 2026 08:09am

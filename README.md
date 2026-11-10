@@ -3,9 +3,9 @@ Welcome to my LeetCode journey! 🎯
 This repository is a curated collection of my daily problem-solving efforts, featuring optimized solutions, clean code, and detailed complexity analysis. Built to track consistency and master data structures & algorithms.
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-123-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-124-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-33-brightgreen?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-57-yellow?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-58-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-30-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
@@ -133,4 +133,5 @@ This repository is a curated collection of my daily problem-solving efforts, fea
 | 1882 |[Process Tasks Using Servers](https://leetcode.com/problems/process-tasks-using-servers/description/?envType=daily-question&envId=2026-11-07)|🟡 Medium |`chooseatype` | Nov 07, 2026 |
 | 1267 |[Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/?envType=daily-question&envId=2026-11-08)|🟡 Medium |`chooseatype` | Nov 08, 2026 |
 | 1606 |[Find Servers That Handled Most Number Of Requests](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/submissions/2192511578/?envType=daily-question&envId=2026-11-09)|🔴 Hard|`chooseatype` |Nov 09, 2026 |
-*Last updated:Mon,09 Nov 2026 08:09pm
+| 3693 |[Climbing Stairs II](https://leetcode.com/problems/climbing-stairs-ii/submissions/2193169758/?envType=daily-question&envId=2026-11-10)|🟡 Medium |`chooseatype` | Nov 10, 2026 |
+*Last updated:Tue,10 Nov 2026 08:27pm

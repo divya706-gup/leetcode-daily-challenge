@@ -3,10 +3,10 @@ Welcome to my LeetCode journey! 🎯
 This repository is a curated collection of my daily problem-solving efforts, featuring optimized solutions, clean code, and detailed complexity analysis. Built to track consistency and master data structures & algorithms.
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-126-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-127-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-34-brightgreen?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-59-yellow?style=flat-square)
-![Hard](https://img.shields.io/badge/Hard-30-red?style=flat-square)
+![Hard](https://img.shields.io/badge/Hard-31-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
 |---|---------|------------|----------|--------|
@@ -136,4 +136,5 @@ This repository is a curated collection of my daily problem-solving efforts, fea
 | 3693 |[Climbing Stairs II](https://leetcode.com/problems/climbing-stairs-ii/submissions/2193169758/?envType=daily-question&envId=2026-11-10)|🟡 Medium |`chooseatype` | Nov 10, 2026 |
 | 3789 |[Minimum Cost to Acquire Required Items](https://leetcode.com/problems/minimum-cost-to-acquire-required-items/?envType=daily-question&envId=2026-11-11)|🟡 Medium |`chooseatype` | Nov 11, 2026 |
 | 3105 |[Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/description/?envType=daily-question&envId=2026-11-12)|🟢 Easy |`chooseatype` | Nov 12, 2026 |
-*Last updated:Thu,12 Nov 2026 11:00pm
+| 3420 |[Count Non-Decreasing Subarrays After k Operations](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/submissions/2195271173/?envType=daily-question&envId=2026-11-13)|🔴 Hard|`chooseatype` |Nov 13, 2026 |
+*Last updated:fri,13 Nov 2026 06:59pm

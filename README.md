@@ -3,8 +3,8 @@ Welcome to my LeetCode journey! 🎯
 This repository is a curated collection of my daily problem-solving efforts, featuring optimized solutions, clean code, and detailed complexity analysis. Built to track consistency and master data structures & algorithms.
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-127-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-34-brightgreen?style=flat-square)
+![Total](https://img.shields.io/badge/Total-128-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-35-brightgreen?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-59-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-31-red?style=flat-square)
 
@@ -137,4 +137,6 @@ This repository is a curated collection of my daily problem-solving efforts, fea
 | 3789 |[Minimum Cost to Acquire Required Items](https://leetcode.com/problems/minimum-cost-to-acquire-required-items/?envType=daily-question&envId=2026-11-11)|🟡 Medium |`chooseatype` | Nov 11, 2026 |
 | 3105 |[Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/description/?envType=daily-question&envId=2026-11-12)|🟢 Easy |`chooseatype` | Nov 12, 2026 |
 | 3420 |[Count Non-Decreasing Subarrays After k Operations](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/submissions/2195271173/?envType=daily-question&envId=2026-11-13)|🔴 Hard|`chooseatype` |Nov 13, 2026 |
-*Last updated:fri,13 Nov 2026 06:59pm
+| 3364 |[Minimum Positive Sum Subarray](https://leetcode.com/problems/minimum-positive-sum-subarray/?envType=daily-question&envId=2026-11-14)|🟢 Easy |`chooseatype` | Nov 14, 2026 |
+
+*Last updated:Sat,14 Nov 2026 11:05pm

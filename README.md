@@ -3,8 +3,8 @@ Welcome to my LeetCode journey! 🎯
 This repository is a curated collection of my daily problem-solving efforts, featuring optimized solutions, clean code, and detailed complexity analysis. Built to track consistency and master data structures & algorithms.
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-129-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-35-brightgreen?style=flat-square)
+![Total](https://img.shields.io/badge/Total-130-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-36-brightgreen?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-60-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-31-red?style=flat-square)
 
@@ -139,4 +139,5 @@ This repository is a curated collection of my daily problem-solving efforts, fea
 | 3420 |[Count Non-Decreasing Subarrays After k Operations](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/submissions/2195271173/?envType=daily-question&envId=2026-11-13)|🔴 Hard|`chooseatype` |Nov 13, 2026 |
 | 3364 |[Minimum Positive Sum Subarray](https://leetcode.com/problems/minimum-positive-sum-subarray/?envType=daily-question&envId=2026-11-14)|🟢 Easy |`chooseatype` | Nov 14, 2026 |
 | 1524 |[Number Of Subarrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/description/?envType=daily-question&envId=2026-11-15)|🟡 Medium |`chooseatype` | Nov 15, 2026 |
-*Last updated:Sun,15 Nov 2026 12:11pm
+| 2243 |[Calculate Digit Sum Of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/description/?envType=daily-question&envId=2026-11-16)|🟢 Easy |`chooseatype` | Nov 16, 2026 |
+*Last updated:Tue,17 Nov 2026 01:11am

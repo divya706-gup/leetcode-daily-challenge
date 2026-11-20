@@ -3,10 +3,10 @@ Welcome to my LeetCode journey! 🎯
 This repository is a curated collection of my daily problem-solving efforts, featuring optimized solutions, clean code, and detailed complexity analysis. Built to track consistency and master data structures & algorithms.
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-133-blue?style=flat-square)
+![Total](https://img.shields.io/badge/Total-134-blue?style=flat-square)
 ![Easy](https://img.shields.io/badge/Easy-36-brightgreen?style=flat-square)
 ![Medium](https://img.shields.io/badge/Medium-62-yellow?style=flat-square)
-![Hard](https://img.shields.io/badge/Hard-32-red?style=flat-square)
+![Hard](https://img.shields.io/badge/Hard-33-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
 |---|---------|------------|----------|--------|
@@ -143,4 +143,5 @@ This repository is a curated collection of my daily problem-solving efforts, fea
 | 2911 |[Minimum Changes to make K-semi Pallindromes](https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/?envType=daily-question&envId=2026-11-17)|🔴 Hard|`chooseatype` |Nov 17, 2026 |
 | 2914 |[Minimum Number Of Changes To Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/description/?envType=daily-question&envId=2026-11-19)|🟡 Medium |`chooseatype` | Nov 18, 2026 |
 | 2567 |[Minimum Scores By Changing Two Elements](https://leetcode.com/problems/minimum-score-by-changing-two-elements/?envType=daily-question&envId=2026-11-19)|🟡 Medium |`chooseatype` | Nov 19, 2026 |
-*Last updated:Thu,19 Nov 2026 06:42am
+| 3041 |[Maximize Consecutive Elements In Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/description/?envType=daily-question&envId=2026-11-20)|🔴 Hard|`chooseatype` |Nov 20, 2026 |
+*Last updated:fri,20 Nov 2026 10:59pm

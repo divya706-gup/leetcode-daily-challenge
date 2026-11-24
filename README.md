@@ -3,9 +3,9 @@ Welcome to my LeetCode journey! 🎯
 This repository is a curated collection of my daily problem-solving efforts, featuring optimized solutions, clean code, and detailed complexity analysis. Built to track consistency and master data structures & algorithms.
 ## 📊 Progress
 
-![Total](https://img.shields.io/badge/Total-136-blue?style=flat-square)
-![Easy](https://img.shields.io/badge/Easy-37-brightgreen?style=flat-square)
-![Medium](https://img.shields.io/badge/Medium-63-yellow?style=flat-square)
+![Total](https://img.shields.io/badge/Total-138-blue?style=flat-square)
+![Easy](https://img.shields.io/badge/Easy-38-brightgreen?style=flat-square)
+![Medium](https://img.shields.io/badge/Medium-64-yellow?style=flat-square)
 ![Hard](https://img.shields.io/badge/Hard-33-red?style=flat-square)
 
 | # | Problem | Difficulty | Language | Solved |
@@ -144,6 +144,8 @@ This repository is a curated collection of my daily problem-solving efforts, fea
 | 2914 |[Minimum Number Of Changes To Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/description/?envType=daily-question&envId=2026-11-19)|🟡 Medium |`chooseatype` | Nov 18, 2026 |
 | 2567 |[Minimum Scores By Changing Two Elements](https://leetcode.com/problems/minimum-score-by-changing-two-elements/?envType=daily-question&envId=2026-11-19)|🟡 Medium |`chooseatype` | Nov 19, 2026 |
 | 3041 |[Maximize Consecutive Elements In Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/description/?envType=daily-question&envId=2026-11-20)|🔴 Hard|`chooseatype` |Nov 20, 2026 |
-| 3331 |[Find subtree  Sizes After Changes](https://leetcode.com/problems/find-subtree-sizes-after-changes/description/?envType=daily-question&envId=2026-11-21)|🟡 Medium |`chooseatype` | Nov 21, 2026 
+| 3331 |[Find subtree  Sizes After Changes](https://leetcode.com/problems/find-subtree-sizes-after-changes/description/?envType=daily-question&envId=2026-11-21)|🟡 Medium |`chooseatype` | Nov 21, 2026 |
 | 2124 |[Check If All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/?envType=daily-question&envId=2026-11-22)|🟢 Easy |`chooseatype` | Nov 22, 2026 |
-*Last updated:Sun,22 Nov 2026 11:05am
+| 1352 |[Product Of Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/?envType=daily-question&envId=2026-11-23)|🟡 Medium |`chooseatype` | Nov 23, 2026 |
+| 3411 |[Maximum Subarray With Equal Products](https://leetcode.com/problems/maximum-subarray-with-equal-products/?envType=daily-question&envId=2026-11-24)|🟢 Easy |`chooseatype` | Nov 24, 2026 |
+*Last updated:Tue,24 Nov 2026 06 :23am

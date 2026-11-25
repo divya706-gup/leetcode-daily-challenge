@@ -4,7 +4,7 @@
 **Topics:** Array, Hash Table, Binary Search, Rolling Hash, Suffix Array, Hash Function  
 **Link:** https://leetcode.com/problems/smallest-unique-subarray/
 
-**Runtime:** 1344 ms | **Memory:** 124.2 MB
+**Runtime:** 1455 ms | **Memory:** 124.2 MB
 
 ---
 
